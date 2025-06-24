@@ -12,7 +12,7 @@ Currently deepening my knowledge in Computer Systems, Operating Systems, and Lin
 
 🔭 Projects:
 - [simple_shell](https://github.com/Hullaah/simple_shell) - a basic unix shell implemented in C
-- [printf](https://github.com/Hullaah/_printf) - My implementation of the C standard library printf using only the write syscall
+- [printf](https://github.com/Hullaah/printf) - My implementation of the C standard library printf using only the write syscall
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hullaah)](https://github.com/anuraghazra/github-readme-stats)
 
