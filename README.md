@@ -1,19 +1,14 @@
 ## Hi there 👋
 
-I'm Umar Oladimeji Adelowo, a Computer Science student at LASU, passionate about Systems Programming, AI, and Cybersecurity.  
-Currently deepening my knowledge in Computer Systems, Operating Systems, and Linux internals
+I'm Umar Oladimeji Adelowo, a Computer Science major at LASU, passionate about anything that's got to do with computers ranging from Applications, Systems, Security to AI.
 
-- 🔭 I’m currently working towards contributing to the linux kernel
-- 🌱 I’m currently learning systems programming
-- 👯 I’m looking to collaborate on any systems programming projects.
-- 💬 Ask me about low level stuff
-- 📫 How to reach me: umaradelo1.247@gmail.com | [LinkedIn](https://www.linkedin.com/in/umar-adelowo-1ab6442a1/)
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently building [eventhub](https://github.com/Hullaah/eventhub)
+- 👯 I’m looking to collaborate on any projects where my skills would prove useful and gain real world experience.
+- 💬 Ask me about anything that's got to do with computers / computing
+- 📫 How to reach me: umaradelo1.247@gmail.com | [LinkedIn](https://www.linkedin.com/in/umaradelowo)
 
 🔭 Projects:
-- [simple_shell](https://github.com/Hullaah/simple_shell) - a basic unix shell implemented in C
-- [printf](https://github.com/Hullaah/printf) - My implementation of the C standard library printf using only the write syscall
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hullaah)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hullaah)](https://github.com/anuraghazra/github-readme-stats)
+- [eventhub](https://github.com/Hullaah/eventhub) - An event management and rsvp platform with features ranging from location intelligence to natural language event discovery. *In progress*
+- [hsh](https://github.com/Hullaah/hsh) - A unix shell implemented in C. *In Progress*
+- [printf](https://github.com/Hullaah/printf) - My implementation of the C standard library printf using only the write syscall.
+- [monty](https://github.com/Hullaah/monty) - A stack/queue (toggleable) based bytecode interpreter built using a circular doubly linked list.
